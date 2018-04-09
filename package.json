@@ -1,0 +1,28 @@
+{
+  "name": "nunjucks-to-html-loader",
+  "version": "1.0.0",
+  "description": "Nunjucks loader for Webpack that returns parsed HTML Edit",
+  "main": "source/nunjucks-to-html-loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermemar/nunjucks-to-html-loader.git"
+  },
+  "author": {
+    "name": "Mar, G",
+    "email": "gfmarster@gmail.com",
+    "site": "https://github.com/guilhermemar"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guilhermemar/nunjucks-to-html-loader/issues"
+  },
+  "homepage": "https://github.com/guilhermemar/nunjucks-to-html-loader#readme",
+  "devDependencies": {
+    "chardet": "^0.4.2",
+    "loader-utils": "^1.1.0",
+    "nunjucks": "^3.1.2"
+  }
+}
